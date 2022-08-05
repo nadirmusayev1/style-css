@@ -1,0 +1,59 @@
+h1 {
+    background-color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 0;
+}   
+
+
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: blanchedalmond;
+
+}
+
+
+
+
+
+
+.sol,
+.sag {
+    float: left;
+
+}
+
+.sol {
+    width: 50%;
+
+}
+
+
+
+
+
+.sag {
+    width: 50%;
+}
+
+
+
+
+.div {
+    float: left;
+}
+
+.sol img {
+
+    float: left;
+}
+
+
+
+.sag {
+    width: 50%;
+}
